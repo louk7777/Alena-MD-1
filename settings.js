@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['917025994178']
-global.premium = ['917025994178']
-global.ownernomer = '917025994178'
-global.ownername = 'ᴊsʟ-ᴀʙᴜ'
-global.botname = 'ᴀʟᴇɴᴀ-ᴍᴅ'
-global.footer = '© ᴀʟᴇɴᴀ ™.'
-global.ig = 'https://github.com/Afx-Abu'
+global.owner = ['212661809542']
+global.premium = ['212661809542']
+global.ownernomer = '212661809542'
+global.ownername = 'prince-lo9mane-ᴀʙᴜ'
+global.botname = 'bot-MEE4-ᴍᴅ'
+global.footer = '© PRINCE LO9MANE ™.'
+global.ig = 'https://github.com/louk123'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/Afx-Abu/Alena-MD'
-global.myweb = 'https://instagram.com/jsl-abu'
-global.packname = 'ᴀʟᴇɴᴀ-ᴍᴅ'
-global.author = 'ᴊsʟ-ᴀʙᴜ'
+global.sc = 'https://github.com/louk123'
+global.myweb = 'https://instagram.com/lo9mane_babyy'
+global.packname = 'bot-MEE4-ᴍᴅ'
+global.author = '© PRINCE LO9MANE ™.'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
