@@ -3471,7 +3471,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 case 'list': {
   	anu = `
 ╭────────────────╮
-	     ᴀʟᴇɴᴀ-ᴍᴅ
+	     prince lo9mane bot
 ╰────────────────╯
 
 ╭────────────────
